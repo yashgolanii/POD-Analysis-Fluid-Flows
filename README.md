@@ -103,7 +103,7 @@ def perform_svd(data_matrix):
 \`\`\`
 
 ## Results
-- Energy contribution of different modes
+- Energy contribution of different modes.
 - Reconstruction of images using SVD
 - Cumulative variance to determine the number of modes required to retain a certain percentage of energy
 
