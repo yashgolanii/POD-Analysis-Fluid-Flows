@@ -105,7 +105,7 @@ def perform_svd(data_matrix):
 ## Results
 - Energy contribution of different modes.
 - Reconstruction of images using SVD.
-- Cumulative variance to determine the number of modes required to retain a certain percentage of energy
+- Cumulative variance to determine the number of modes required to retain a certain percentage of energy.
 
 ## Report
 A detailed analysis and results are documented in the [POD Analysis Report](./POD_Analysis_Report.pdf).
