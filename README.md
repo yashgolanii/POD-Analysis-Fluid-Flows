@@ -15,7 +15,7 @@ Video data is ubiquitous in various fields such as surveillance, medical imaging
 - **Surveillance Systems**: Enhancing the quality of footage for better identification and monitoring.
 - **Medical Imaging**: Reducing noise in medical scans to improve diagnosis and treatment planning.
 - **Remote Sensing**: Enhancing satellite imagery for better environmental monitoring and disaster management.
-- **Entertainment**: Improving the quality of video content in film and media production.
+- **Entertainment**: Improving the quality of video content in film and media production..
 
 ## Table of Contents
 - [Installation](#installation)
