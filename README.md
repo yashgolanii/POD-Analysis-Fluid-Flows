@@ -111,7 +111,7 @@ def perform_svd(data_matrix):
 A detailed analysis and results are documented in the [POD Analysis Report](./POD_Analysis_Report.pdf).
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 ## Contact
 For any questions or contributions, please contact [yashgolani2004@gmail.com].
